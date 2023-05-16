@@ -1,2 +1,2 @@
 # whileloop
-Core Java öğrenirkenyazdıklarım :)
+Core Java öğrenirken yazdıklarım :)
